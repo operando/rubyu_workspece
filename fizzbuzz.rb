@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 class Fixnum
 	def fizzbuzz
 		return "FizzBuzz" if self % 15 == 0
